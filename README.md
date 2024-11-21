@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 Currently Working On: Learning The Programming Language Rust<br><br>💪 2 Years Of Golang Programming<br><br>💖 Passionate about low-level programming languages like ASM and C
+🧑‍🎓 Currently A Cyber Security Major and a Go,C and Rust Lover!<br><br>💪 Gopher! <br><br>💖 Passionate about low-level programming languages like ASM and C
 
 
 # 💻 Tech Stack:
